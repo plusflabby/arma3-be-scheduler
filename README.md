@@ -1,4 +1,5 @@
 # arma3-be-scheduler
+Schedule messages or commands to be sent to your arma 3 server.
 
 ## Requirements
 1. [Node.JS](https://nodejs.dev/)
