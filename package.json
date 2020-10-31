@@ -1,0 +1,31 @@
+{
+  "name": "arma3-be-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "example": "node example/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plusflabby/arma3-be-scheduler.git"
+  },
+  "keywords": [
+    "Arma",
+    "Arma3",
+    "Schedule",
+    "Message",
+    "BE",
+    "Battleye"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plusflabby/arma3-be-scheduler/issues"
+  },
+  "homepage": "https://github.com/plusflabby/arma3-be-scheduler#readme",
+  "dependencies": {
+    "arma3-be": "^1.0.3",
+    "cron": "^1.8.2"
+  }
+}
